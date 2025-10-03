@@ -4,3 +4,6 @@
 [submodule "Lottorey"]
 	path = Lottorey
 	url = git@github.com:Sanenelisiwe1975/Lottorey.git
+[submodule "NFT_collection"]
+	path = NFT_collection
+	url = git@github.com:Sanenelisiwe1975/NFT_collection.git
