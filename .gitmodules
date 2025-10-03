@@ -13,3 +13,6 @@
 [submodule "pro-factory"]
 	path = pro-factory
 	url = git@github.com:Sanenelisiwe1975/pro-factory.git
+[submodule "proxy"]
+	path = proxy
+	url = git@github.com:Sanenelisiwe1975/proxy.git
