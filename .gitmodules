@@ -1,0 +1,3 @@
+[submodule "Voting_smart_contract"]
+	path = Voting_smart_contract
+	url = git@github.com:Sanenelisiwe1975/Voting_smart_contract.git
