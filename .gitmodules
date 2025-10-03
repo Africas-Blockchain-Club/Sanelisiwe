@@ -10,3 +10,6 @@
 [submodule "Vending_Machine"]
 	path = Vending_Machine
 	url = git@github.com:Sanenelisiwe1975/Vending_Machine.git
+[submodule "pro-factory"]
+	path = pro-factory
+	url = git@github.com:Sanenelisiwe1975/pro-factory.git
