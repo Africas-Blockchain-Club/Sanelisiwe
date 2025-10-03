@@ -7,3 +7,6 @@
 [submodule "NFT_collection"]
 	path = NFT_collection
 	url = git@github.com:Sanenelisiwe1975/NFT_collection.git
+[submodule "Vending_Machine"]
+	path = Vending_Machine
+	url = git@github.com:Sanenelisiwe1975/Vending_Machine.git
